@@ -1,3 +1,2 @@
-# SP-imaging 
+# Single Pixel imaging: Physics degree final thesis
 
-Physics degree final thesis
