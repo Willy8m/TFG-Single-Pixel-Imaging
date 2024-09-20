@@ -1,4 +1,4 @@
-# Thesis Code: Building a single-pixel camera system
+# Building a single-pixel camera system: Thesis Code
 
 As my Physics final thesis, a single-pixel camera prototype was developed, using an IDS camera and an Icodis projector. The code directory includes all scripts needed to set up and control the camera, and to process and analyze the output data.
 
